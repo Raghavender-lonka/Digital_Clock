@@ -191,6 +191,9 @@ body{
     margin: 0px 0px 0px 0px;
 
 }
+.selected_time{
+    font-family: 'Dongle', sans-serif;
+}
 .op1{
     background: #FFFFFF 0% 0% no-repeat padding-box;
     border: 1px solid #EDEDED;
@@ -434,7 +437,7 @@ button:hover:before {
         width: 30vw;
         height: 45px;
         position: relative;
-        left: 30px;
+        left: 35px;
     
     }
     .wake_text{
